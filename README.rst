@@ -28,16 +28,15 @@ How to use:
 
 Prereqs:
 ============
-* jhlabs.com image processing library ( http://www.jhlabs.com/ie/ImageEditor.jar )
-* The Standard Widget Toolkit (comes with Eclipse) ( swt.jar )
-* Bio-medical Imaging ( http://bij.isi.uu.nl/downloads/bij_plugin.zip )
-* ImageJ ( http://imagej.nih.gov/ij/download/zips/ij144.zip ) ( ij.jar )
-* all above included in libs subdirectory
+* Maven
 
-:Authors:
+:Original Authors:
     Bernard Kobos,
     Piotr Zaborowski.
 	( Warsaw University of Technology )
+
+:Contributors:
+    Luis Bathen
 
 
 
